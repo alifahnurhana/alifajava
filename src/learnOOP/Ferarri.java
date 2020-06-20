@@ -10,6 +10,6 @@ public class Ferarri extends Car {
     @Override
     public void run() {
         super.run();
-        System.out.println("FERRARI IS RUN");
+        System.out.println("FERRARI");
     }
 }
