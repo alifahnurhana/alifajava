@@ -11,7 +11,7 @@ public class Car {
 
     protected void stop() {
         brake();
-        System.out.println("CAR STOP");
+        System.out.println("CAR stop it");
     }
 
     // Encapsulation
