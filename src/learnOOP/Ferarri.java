@@ -1,5 +1,5 @@
 package learnOOP;
-
+//inheritance
 public class Ferarri extends Car {
     public void race() {
         // access ferrari run
